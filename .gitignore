@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+
+TrayScripts/\.vs/TrayScripts/v15/Browse\.VC\.db

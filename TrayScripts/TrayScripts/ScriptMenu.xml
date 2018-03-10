@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<MenuRoot>
+  <Script name="Powershell" cmd="start powershell.exe -noexit -command cd c:\Windows\"/>
+  <Script name="Command Line" cmd="run ..\Scripts\launch_cmd.bat"/>
+  <Menu name="Launch Exe Scripts">
+    <Script name="Powershell" cmd="start powershell.exe -noexit -command cd c:\Windows\"/>
+  </Menu>
+  <Menu name="Developer"/>
+</MenuRoot>
